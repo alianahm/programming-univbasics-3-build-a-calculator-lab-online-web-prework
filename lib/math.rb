@@ -1,4 +1,4 @@
-def addition(5, 4)
+def addition(5, 4).to eq(9)
 
 end
 
